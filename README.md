@@ -38,10 +38,11 @@ and interactive dashboard creation using Power BI.
 ---
 
 ## 📊 Key Insights
-- Identified key variables impacting clinical pregnancy rate
-- Observed distribution trends across treatment cycles
-- Analyzed missing values and corrected inconsistencies
-- Built dashboards for outcome comparison and trend analysis
+- Identified factors influencing clinical pregnancy rate.
+- Observed distribution patterns across IVF treatment cycles.
+- Detected and handled missing values effectively.
+- Analyzed outcome trends across age groups and treatment types.
+- Built KPI-driven dashboard for performance tracking.
 
 ---
 
