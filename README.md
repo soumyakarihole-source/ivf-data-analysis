@@ -18,7 +18,8 @@ and interactive dashboard creation using Power BI.
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib/Seaborn)
 - Microsoft Excel
 - SQL
 - Power BI
