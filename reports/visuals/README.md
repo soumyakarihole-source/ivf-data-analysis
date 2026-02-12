@@ -10,4 +10,11 @@ Visuals include:
 - Univariate and bivariate analysis graphs
 - Power BI screenshots (if applicable)
 
+Dashboard KPIs:
+- Clinical Pregnancy Rate (%)
+- Live Birth Rate (%)
+- Treatment Cycle Analysis
+- Age Group Comparison
+
+
 These visuals support the insights documented in the EDA report.
