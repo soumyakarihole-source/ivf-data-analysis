@@ -27,6 +27,18 @@ and interactive dashboard creation using Power BI.
 
 ---
 
+## 🧠 Skills Demonstrated
+
+- Data Cleaning using Pandas
+- Missing Value Treatment
+- Exploratory Data Analysis (EDA)
+- Statistical Interpretation
+- Data Visualization
+- KPI Dashboard Development in Power BI
+- Version Control using GitHub
+
+---
+
 ## 📂 Project Structure
 - data/ → Raw and processed datasets  
 - notebooks/ → EDA and preprocessing steps  
@@ -38,10 +50,10 @@ and interactive dashboard creation using Power BI.
 ---
 
 ## 📊 Key Insights
-- Identified factors influencing clinical pregnancy rate.
-- Observed distribution patterns across IVF treatment cycles.
-- Detected and handled missing values effectively.
-- Analyzed outcome trends across age groups and treatment types.
+- Age group 30–35 showed highest clinical pregnancy rate.
+- Missing AMH values were treated using median imputation.
+- Certain treatment cycles showed higher success probability.
+- Outliers were detected using IQR method and validated.
 - Built KPI-driven dashboard for performance tracking.
 
 ---
